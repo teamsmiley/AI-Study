@@ -1,0 +1,20 @@
+google-auth-oauthlib 
+google-auth-httplib2 
+google-api-python-client
+beautifulsoup4 
+html2text
+# langchain
+langchain-openai
+langchain-core
+langchain-anthropic
+
+mysql-connector-python
+
+# langgraph
+python-dotenv
+langgraph
+
+## slack
+slack-sdk
+
+sentry-sdk
