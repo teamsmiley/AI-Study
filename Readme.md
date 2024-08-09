@@ -18,3 +18,6 @@ git add --all && git commit -am "update" && git push
 - slack bot만들기 
 - ai slack bot만들기 
 
+- agentic workflow
+
+
