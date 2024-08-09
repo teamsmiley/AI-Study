@@ -11,3 +11,10 @@ pip install --user -r requirements.txt
 ```sh
 git add --all && git commit -am "update" && git push
 ```
+
+## todo 
+
+- 가족용 slack 채널
+- slack bot만들기 
+- ai slack bot만들기 
+
