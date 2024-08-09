@@ -18,3 +18,5 @@ langgraph
 slack-sdk
 
 sentry-sdk
+
+openai
