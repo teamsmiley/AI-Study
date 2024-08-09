@@ -2,7 +2,7 @@
 
 ## 목록
 
-1. dev-container
+1. dev-container (python 개발 환경 구축 docker, vscode, jupyter)
 1. claude
 1. function calling
   1. https://platform.openai.com/docs/guides/function-calling
